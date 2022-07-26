@@ -1,0 +1,16 @@
+ import java.io.*;
+  import java.lang.*;
+  class nullpointer
+  {
+  public static void main (string args[])
+  {
+   try
+   String name = "null"
+   system.out.printIn(name.length());
+   }
+   catch (null pointer exception )
+   {  
+   system.out.printIn("Name Is Null");
+   }
+   }
+   }      
